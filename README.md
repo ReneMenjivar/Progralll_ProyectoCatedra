@@ -11,7 +11,7 @@ desde el navegador en inventory.test, ejecutándose localmente con Laragon.
 ---> MySQL: Base de datos para almacenar la información.
 ---> Git: Para clonar el repositorio desde GitHub.
 
-                    Instalación
+                        Instalación
 Instalar dependencias previas:
 ---> Descarga e instala Laragon desde laragon.org.
 ---> Descarga e instala Node.js desde nodejs.org.
